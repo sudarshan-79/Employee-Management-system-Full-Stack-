@@ -34,14 +34,6 @@ The Employee Management System (EMS) is a web application developed to streamlin
 - Ant Design & React-Bootstrap: UI library for building sleek and responsive user interfaces.
 - Chart.js: Library for creating interactive and customizable charts and graphs.
 
-## Dashboard
-
-![Dashboard](./images/dashboard.png)
-
-## Profile Page
-
-![Profile](./images/profile.png)
-
 ## Installation
 
 1. Clone the repository:
@@ -74,12 +66,3 @@ The Employee Management System (EMS) is a web application developed to streamlin
      npm start
      ```
 
-## Usage
-
-- Access the application in your browser at `http://localhost:3000`.
-- Log in using your username and password.
-- Depending on your role (normal user or super admin), you will have access to different functionalities.
-
-## Contributing
-
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
